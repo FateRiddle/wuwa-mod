@@ -3,7 +3,7 @@ Wuthering Waves pak mods
 
 
 # How to use
-1.Place the mod file in the Wuthering Waves \ Wuthering Waves Game \ Client \ Content \ Paks \~mods \
+1.Place the mod file in the Wuthering Waves \ Wuthering Waves Game \ Client \ Content \ Paks\\~mods \
 
 2.run game with command line "-fileopenlog"
 
