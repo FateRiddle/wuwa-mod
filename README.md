@@ -3,9 +3,9 @@ Wuthering Waves pak mods
 
 
 # How to use
-1.Place the mod file in the Wuthering Waves \ Wuthering Waves Game \ Client \ Content \ Paks\\~mods \
-
-2.run game with command line "-fileopenlog"
+1.Place the mod file in the Wuthering Waves \ Wuthering Waves GamClienContentPaks\\~mod\
+2. find Wuthering Waves\Wuthering Waves Game\Client\Binaries\Win64\Client-Win64-Shipping.exe
+3.run game with command line "-fileopenlog"
 
 # Functions
 
