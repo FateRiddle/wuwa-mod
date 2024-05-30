@@ -17,9 +17,13 @@ Wuthering Waves pak mods
 
 4.Ignoring falling damage
 
-5，free monthcard ，store（Visual Only）
+5.free monthcard ，store（Visual Only）
 
-6，custom uid 
+6.Custom uid 
+
+7.Disable anti cheat report
+
+8.Disable Dither Effect
 
 
 
