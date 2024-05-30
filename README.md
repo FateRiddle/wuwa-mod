@@ -15,7 +15,7 @@ Wuthering Waves pak mods
 
 3.Skip the plot (have issues)
 
-4.Ignoring falling demage
+4.Ignoring falling damage
 
 5，free monthcard ，store（Visual Only）
 
