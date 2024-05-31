@@ -27,5 +27,15 @@ Wuthering Waves pak mods
 
 8.Disable Dither Effect
 
+#How to modify pak
+
+1.Unpacking pak11 using [Fmodel](https://github.com/4sval/FModel)
+
+AESkey = 0xE0D4C0AA387A268B29C397E3C0CAD934522EFC96BE5526D6288EA26351CDACC9
+
+2.Find and modify files
+
+3.Packaging using ue4.26
+
 
 
