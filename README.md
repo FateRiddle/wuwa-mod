@@ -3,7 +3,7 @@ Wuthering Waves pak mods
 
 
 # How to use
-1.Place the mod file in the Wuthering Waves \ Wuthering Waves GamClienContentPaks\\~mod\
+1.Place the mod file in the  \Wuthering Waves\Wuthering Waves Game\Client\Content\Paks\\~mod\
 
 2.find Wuthering Waves\Wuthering Waves Game\Client\Binaries\Win64\Client-Win64-Shipping.exe
 
