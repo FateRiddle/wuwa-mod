@@ -29,6 +29,8 @@ Wuthering Waves pak mods
 
 9.Disable log reporter 
 
+10.hit multiplier x15
+
 # How to modify pak
 
 1.Unpacking pak11 using [Fmodel](https://github.com/4sval/FModel)
