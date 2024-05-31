@@ -29,7 +29,9 @@ Wuthering Waves pak mods
 
 9.Disable log reporter 
 
-10.hit multiplier x15
+10.Hit multiplier x15
+
+11.God mode
 
 # How to modify pak
 
