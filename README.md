@@ -23,9 +23,11 @@ Wuthering Waves pak mods
 
 6.Custom uid 
 
-7.Disable anti cheat report
+7.Disable anti cheat 
 
 8.Disable Dither Effect
+
+9.Disable log reporter 
 
 #How to modify pak
 
